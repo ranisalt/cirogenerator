@@ -43,7 +43,7 @@
       'quadrilheiro',
       'safado',
       'selvagem',
-      'vil e pulsânime',
+      'vil e pusilânime',
     ], [
       'cheio de areia no cu',
       'de merda',
