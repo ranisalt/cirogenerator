@@ -1,0 +1,20 @@
+html, body {
+  background: url(tironomes.jpg) rgba(0, 0, 0, .7) center/cover;
+  background-blend-mode: multiply;
+  color: #fff;
+}
+
+body {
+  align-items: center;
+  display: flex;
+  flex-flow: column;
+  height: 100vh;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  width: 100vw;
+}
+
+.button { font-size: 1.2em; padding: .4em 1.2em; }
+.output { font-size: 4em; padding: 1em; }
