@@ -51,6 +51,7 @@
       'dos grandes',
       'dos infernos',
       'eleitoreiro',
+      'da turma do Romero Jucá',
     ],
   ]
 
