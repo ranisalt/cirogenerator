@@ -46,13 +46,13 @@
       'vil e pusilânime',
     ], [
       'cheio de areia no cu',
+      'com 526 terabytes de encryption',
+      'da turma do Romero Jucá',
       'de merda',
       'desgraçado',
       'dos grandes',
       'dos infernos',
       'eleitoreiro',
-      'com 526 terabytes de encryption',
-      'da turma do Romero Jucá',
     ],
   ]
 
