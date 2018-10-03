@@ -20,6 +20,7 @@
       'apartidário',
       'bobão',
       'boçal',
+      'capitãozinho do mato',
       'chefe de milícia',
       'cheirador de cocaína',
       'covarde',
